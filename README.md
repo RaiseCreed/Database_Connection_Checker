@@ -1,4 +1,7 @@
 # Database_Connection_Checker
+
+![Screenshot](screenshot.png)
+
 This app will check if given credentials are valid and allow to connect to database.
 
 MySQL and MSSQL supported.
